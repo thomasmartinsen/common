@@ -2,13 +2,13 @@
 
 (in no special prioritized order)
 
-Krisp: Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call  
+Krisp: Krisp's AI removes background voices, noises, and echo from your calls, giving you peace of call.  
 https://krisp.ai/
 
 Beatoven: Create unique royalty-free music that elevates your story.  
 https://www.beatoven.ai/
 
-Cleanvoice: Automatically edit your podcast episodes. 
+Cleanvoice: Automatically edit your podcast episodes.  
 https://cleanvoice.ai/
 
 Podcastle: Studio quality recording, right from your computer.  
